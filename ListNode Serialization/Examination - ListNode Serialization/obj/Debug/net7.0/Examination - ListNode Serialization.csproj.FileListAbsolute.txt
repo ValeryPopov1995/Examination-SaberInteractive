@@ -1,0 +1,15 @@
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\obj\Debug\net7.0\Examination - ListNode Serialization.csproj.AssemblyReference.cache
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\obj\Debug\net7.0\Examination - ListNode Serialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\obj\Debug\net7.0\Examination - ListNode Serialization.AssemblyInfoInputs.cache
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\obj\Debug\net7.0\Examination - ListNode Serialization.AssemblyInfo.cs
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\obj\Debug\net7.0\Examination - ListNode Serialization.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\bin\Debug\net7.0\Examination - ListNode Serialization.exe
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\bin\Debug\net7.0\Examination - ListNode Serialization.deps.json
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\bin\Debug\net7.0\Examination - ListNode Serialization.runtimeconfig.json
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\bin\Debug\net7.0\Examination - ListNode Serialization.dll
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\bin\Debug\net7.0\Examination - ListNode Serialization.pdb
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\obj\Debug\net7.0\Examination - ListNode Serialization.dll
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\obj\Debug\net7.0\refint\Examination - ListNode Serialization.dll
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\obj\Debug\net7.0\Examination - ListNode Serialization.pdb
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\obj\Debug\net7.0\Examination - ListNode Serialization.genruntimeconfig.cache
+D:\PROJECTS\Examination\Examination - ListNode Serialization\Examination - ListNode Serialization\obj\Debug\net7.0\ref\Examination - ListNode Serialization.dll
